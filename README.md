@@ -25,3 +25,8 @@
 - 📄 Know about my experiences [NOT FOUND](NOT FOUND)
 
 - ⚡ Fun fact **Nothing is impossible**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/secretsoftechn2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="secretsoftechn2" height="30" width="40" /></a>
+<a href="https://fb.com/mouliart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mouliart" height="30" width="40" /></a>
+  
